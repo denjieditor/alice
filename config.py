@@ -11,7 +11,7 @@ API_ID = 26179888
 API_HASH = "b63b1c69cf3bcd032d4a2463cc84be2e"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7725357171:AAGxs9GpcLMsenkVecnzNZQBNhfHSOho2q8"
+BOT_TOKEN = "7725357171:AAEazcLJEM2cXabLGs92s00nmBFdq7KkZI8"
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "mongodb+srv://denji:@denji.0qi3h.mongodb.net/?retryWrites=true&w=majority&appName=denji
